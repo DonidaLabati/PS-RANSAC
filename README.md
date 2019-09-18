@@ -26,7 +26,7 @@ DOI: 10.1016/j.cviu.2019.07.007
 
 <h3>Requirements</h3>
 RANSAC Toolbox by Marco Zuliani<br>
-http://tinyurl.com/7x3k5av
+https://github.com/RANSAC/RANSAC-Toolbox
 
 <h3>Installation procedure</h3>
 1) Unzip PS-RANSAC code in the directory "X".<br>
