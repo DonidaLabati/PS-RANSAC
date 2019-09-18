@@ -25,19 +25,19 @@ DOI: 10.1016/j.cviu.2019.07.007
 </p>
 
 <h3>Requirements</h3>
-RANSAC Toolbox by Marco Zuliani
+RANSAC Toolbox by Marco Zuliani<br>
 http://tinyurl.com/7x3k5av
 
 <h3>Installation procedure</h3>
-1) Unzip PS-RANSAC code in the directory "X".
+1) Unzip PS-RANSAC code in the directory "X".<br>
 2) Unzip the RANSAC Toolbox inside the directory X of PS-RANSAC, obtaining the subdirectory "X\RANSAC-Toolbox-master\".
 
 <h3>Main file</h3>
 main_demo.m
 
 <h3>Contacts</h3>
-Ruggero Donida Labati
-Università degli Studi di Milano
-http://www.di.unimi.it/donida
+Ruggero Donida Labati<br>
+Università degli Studi di Milano<br>
+http://www.di.unimi.it/donida<br>
 ruggero AT donida DOT unimi DOT it
 
