@@ -24,13 +24,12 @@ DOI: 10.1016/j.cviu.2019.07.007
 }
 </p>
 
-<h3>Requirements</h3>
+<h3>Credits</h3>
 RANSAC Toolbox by Marco Zuliani<br>
 https://github.com/RANSAC/RANSAC-Toolbox
 
-<h3>Installation procedure</h3>
-1) Unzip PS-RANSAC code in the directory "X".<br>
-2) Unzip the RANSAC Toolbox inside the directory X of PS-RANSAC, obtaining the subdirectory "X\RANSAC-Toolbox-master\".
+circfit() by Izhak Bucher
+https://it.mathworks.com/matlabcentral/fileexchange/5557-circle-fit?focused=5059278&tab=function
 
 <h3>Main file</h3>
 main_demo.m
@@ -40,4 +39,27 @@ Ruggero Donida Labati<br>
 Università degli Studi di Milano<br>
 http://www.di.unimi.it/donida<br>
 ruggero AT donida DOT unimi DOT it
+
+
+<h3>External links</h3>
+<h4>Enhancement</h4>
+Bilateral filter
+https://it.mathworks.com/matlabcentral/fileexchange/12191-bilateral-filtering
+<h4>Iris boundaries</h4>
+USIT Version 2
+http://www.wavelab.at/sources/Rathgeb16a/
+Osiris 4.1
+http://svnext.it-sudparis.eu/svnview2-eph/ref_syst/Iris_Osiris_v4.1/
+An Accurate Iris Segmentation Framework under Relaxed Imaging Constraints using Total Variation Model
+https://www4.comp.polyu.edu.hk/~csajaykr/tvmiris.htm
+Iris segmentation using Daugman's integrodifferential operator
+https://it.mathworks.com/matlabcentral/fileexchange/15652-iris-segmentation-using-daugman-s-integrodifferential-operator
+Masek's library
+peterkovesi.com/studentprojects/libor/
+<h4>Illumination compensation</h4>
+The INface toolbox v2.0 for illumination invariant face recognition
+https://it.mathworks.com/matlabcentral/fileexchange/26523-the-inface-toolbox-v2-0-for-illumination-invariant-face-recognition
+
+
+
 
