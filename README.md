@@ -55,7 +55,7 @@ https://www4.comp.polyu.edu.hk/~csajaykr/tvmiris.htm<br>
 Iris segmentation using Daugman's integrodifferential operator<br>
 https://it.mathworks.com/matlabcentral/fileexchange/15652-iris-segmentation-using-daugman-s-integrodifferential-operator<br>
 Masek's library<br>
-peterkovesi.com/studentprojects/libor/<br>
+https://www.peterkovesi.com/studentprojects/libor/<br>
 <h4>Illumination compensation</h4>
 The INface toolbox v2.0 for illumination invariant face recognition<br>
 https://it.mathworks.com/matlabcentral/fileexchange/26523-the-inface-toolbox-v2-0-for-illumination-invariant-face-recognition
