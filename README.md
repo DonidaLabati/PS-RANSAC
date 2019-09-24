@@ -43,21 +43,21 @@ ruggero AT donida DOT unimi DOT it
 
 <h3>External links</h3>
 <h4>Enhancement</h4>
-Bilateral filter
-https://it.mathworks.com/matlabcentral/fileexchange/12191-bilateral-filtering
-<h4>Iris boundaries</h4>
-USIT Version 2
-http://www.wavelab.at/sources/Rathgeb16a/
-Osiris 4.1
-http://svnext.it-sudparis.eu/svnview2-eph/ref_syst/Iris_Osiris_v4.1/
-An Accurate Iris Segmentation Framework under Relaxed Imaging Constraints using Total Variation Model
-https://www4.comp.polyu.edu.hk/~csajaykr/tvmiris.htm
-Iris segmentation using Daugman's integrodifferential operator
-https://it.mathworks.com/matlabcentral/fileexchange/15652-iris-segmentation-using-daugman-s-integrodifferential-operator
-Masek's library
-peterkovesi.com/studentprojects/libor/
+Bilateral filter<br>
+https://it.mathworks.com/matlabcentral/fileexchange/12191-bilateral-filtering<br>
+<h4>Iris boundaries</h4><br>
+USIT Version 2<br>
+http://www.wavelab.at/sources/Rathgeb16a/<br>
+Osiris 4.1<br>
+http://svnext.it-sudparis.eu/svnview2-eph/ref_syst/Iris_Osiris_v4.1/<br>
+An Accurate Iris Segmentation Framework under Relaxed Imaging Constraints using Total Variation Model<br>
+https://www4.comp.polyu.edu.hk/~csajaykr/tvmiris.htm<br>
+Iris segmentation using Daugman's integrodifferential operator<br>
+https://it.mathworks.com/matlabcentral/fileexchange/15652-iris-segmentation-using-daugman-s-integrodifferential-operator<br>
+Masek's library<br>
+peterkovesi.com/studentprojects/libor/<br>
 <h4>Illumination compensation</h4>
-The INface toolbox v2.0 for illumination invariant face recognition
+The INface toolbox v2.0 for illumination invariant face recognition<br>
 https://it.mathworks.com/matlabcentral/fileexchange/26523-the-inface-toolbox-v2-0-for-illumination-invariant-face-recognition
 
 
