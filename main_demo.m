@@ -16,22 +16,38 @@ clc
 %--------------------------------------------------------------------------
 % Ocular image to be segmented
 imgName = 'example.bmp';
-
-% Circle approximating the pupil shape
-rP = 61; % radius
-xcP = 345; % x coordinate of the pupil center
-ycP = 246; % y coordinate of the pupil center
-%-------------------------------------------------------------------------
+%--------------------------------------------------------------------------
 
 % Algorithm parameters
 %--------------------------------------------------------------------------
 percInliers = 0.9; %(0.5 to 1)
 nPoints = 6;
-plot_debug = true;
+plot_debug = false;
 %--------------------------------------------------------------------------
 
-% Plot the input data
+% Manual segmentation of the pupil-iris boundary
+%-------------------------------------------------------------------------
 img = imread(imgName);
+figure,
+imshow(img);
+title('Select 4 points of the INTERNAL boundary')
+
+XP = [];
+YP = [];
+for nPoint = 1 : 4
+    [x,y] = ginput(1);
+    XP = [XP, x];
+    YP = [YP, y];
+end
+
+[xcP,ycP,rP,a] = circfit(XP, YP);
+
+close all
+%-------------------------------------------------------------------------
+
+
+
+% Plot the input data
 figure
 imshow(img)
 hold on

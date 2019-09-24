@@ -60,8 +60,9 @@ if plot_debug
      plot(irisBoundary1(2,:), irisBoundary1(1,:), '.g')
      plot(irisBoundarySpline(2,:), irisBoundarySpline(1,:), '.r')
      legend('Boundary points', 'Refined boundary');
+     title('Boundary in Cartesian coordinate')
 end
-title('Boundary in Cartesian coordinate')
+
 
 
 % Output computation
