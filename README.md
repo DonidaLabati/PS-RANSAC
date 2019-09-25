@@ -6,6 +6,11 @@ Source code for estimating the external iris boundary in non-ideal ocular images
 We propose a robust iris segmentation method for non-ideal ocular images, referred to as Polar Spline RANSAC (PS-RANSAC), which approximates the iris shape as a closed curve with arbitrary degrees of freedom. The method is robust to several nonidealities, such as poor contrast, occlusions, gaze deviations, pupil dilation, motion blur, poor focus, frame interlacing, differences in image resolution,
 specular reflections, and shadows. Unlike most techniques in the literature, the proposed method obtains good performance in harsh conditions with different imaging wavelengths and datasets.
 
+<h3>How to use the software library</h3>
+The user should select 4 points of the internal iris boundary to allow the software estimating a circle approximating the internal iris boundary.
+The software computes the external iris boundary using PS-RANSAC.
+
+
 <h3>Related publication</h3>
 <p>
 R. Donida Labati, E. Muñoz, V. Piuri, A. Ross, F. Scotti, "Non-ideal iris segmentation using Polar Spline RANSAC and illumination compensation", in Computer Vision and Image Understanding, Elsevier, 2019.<br>
