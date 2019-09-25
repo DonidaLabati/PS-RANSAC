@@ -7,10 +7,11 @@ We propose a robust iris segmentation method for non-ideal ocular images, referr
 specular reflections, and shadows. Unlike most techniques in the literature, the proposed method obtains good performance in harsh conditions with different imaging wavelengths and datasets.
 
 <h3>How to use the software library</h3>
-The user should select 4 points of the internal iris boundary to allow the software estimating a circle approximating the internal iris boundary.
-<img src="https://homes.di.unimi.it/donida/IN.png"  width="388">
-The software computes the external iris boundary using PS-RANSAC.
-<img src="https://homes.di.unimi.it/donida/OUT.png">
+<ol>
+<li>The user should select 4 points of the internal iris boundary to allow the software estimating a circle approximating the internal iris boundary.
+<li>The software computes the external iris boundary using PS-RANSAC.
+  </ol>
+<img src="https://homes.di.unimi.it/donida/IO.png">
 
 
 <h3>Related publication</h3>
