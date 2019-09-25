@@ -8,9 +8,9 @@ specular reflections, and shadows. Unlike most techniques in the literature, the
 
 <h3>How to use the software library</h3>
 The user should select 4 points of the internal iris boundary to allow the software estimating a circle approximating the internal iris boundary.
-<img srec="https://homes.di.unimi.it/donida/IN.png">
+<img src="https://homes.di.unimi.it/donida/IN.png">
 The software computes the external iris boundary using PS-RANSAC.
-<img srec="https://homes.di.unimi.it/donida/OUT.png">
+<img src="https://homes.di.unimi.it/donida/OUT.png">
 
 
 <h3>Related publication</h3>
